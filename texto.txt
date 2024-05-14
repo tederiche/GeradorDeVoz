@@ -1,0 +1,1 @@
+python generate_audio.py "ENTÃO NÃO PERCA TEMPO E GARANTA JÁ SEU BENEFÍCIO!!!" 440.0
